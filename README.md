@@ -4,5 +4,8 @@ A simple, user-friendly day planner to help manage tasks, schedules, and daily g
 # Executing
 just clone and run the index.html file
 
+# Visit the site here
+https://mdkaifinamdar.github.io/Day_Planner
+
 # Credits
 inspired by github.com/goodchai0/day-planner
