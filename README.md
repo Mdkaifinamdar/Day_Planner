@@ -6,3 +6,4 @@ This project was part of my Web Designing internship @MindFree Softwares
 just clone and run the index.html file
 
 # Visit the site here
+https://mdkaifinamdar.github.io/Day_Planner/
