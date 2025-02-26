@@ -6,4 +6,4 @@ This project was part of my Web Designing internship @MindFree Softwares
 just clone and run the index.html file
 
 # Visit the site here
-[Day Planner](https://dayplanner-mki.vercel.app/)
+[https://dayplanner-mki.vercel.app](https://dayplanner-mki.vercel.app/)
